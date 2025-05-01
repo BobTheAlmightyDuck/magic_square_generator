@@ -102,9 +102,5 @@ square.
 
 Either way, you get a congratulatory message.
 
-
-Additionally, a test_project.py file was written containing several test on some of the custom function if the program,
-namely checking that the functions get_goal, get_n_center, get_n_type, and check_sums are all working as expected.
-
 A requirements.txt file was also created to record the names of the pip-installable libraries used in this project, namely
-NumPy and tabulate, as this was apparently required.
+NumPy and Tabulate, as this was apparently required.
